@@ -69,3 +69,5 @@ Prerequisites: Except on a few [platform and Node version combinations](https://
 To install, run 
 ```npm install deasync```
 
+Note: because deasync is reliant on node, it cannot be run in a browser (eg. with Browserify)
+
